@@ -2,7 +2,7 @@ local WindUI = loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/rel
 
 local Window = WindUI:CreateWindow({
     Title = "Galaxy",
-    Icon = "15410082162",
+    Icon = "691443349047535383",
     Author = "Blox Fruits : PREMIUM",
     Size = UDim2.fromOffset(400, 300),
     Transparent = true,
