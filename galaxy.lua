@@ -19,7 +19,7 @@ local Window = WindUI:CreateWindow({
     }
 })
 
-local Tabs = {ฏ
+local Tabs = {
     MainTab = Window:Tab({ Title = "Main "}),
 }
 
